@@ -19,4 +19,9 @@ You can view the live demo of the quiz app [here](URL) *(replace `URL` with the 
 - **CSS** for styling and responsiveness
 - **JavaScript** for quiz logic and interactivity
 
+## Screenshot
+
+![Quiz App Screenshot](quiz-app.png)
+
+
 
