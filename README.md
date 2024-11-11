@@ -11,7 +11,7 @@ A simple quiz app built with HTML, CSS, and JavaScript. This app displays multip
 
 ## Demo
 
-You can view the live demo of the quiz app [here](URL) *(replace `URL` with the link to your hosted project, if applicable)*.
+You can view the live demo of the quiz app [here](https://abins2003.github.io/Quiz-App/)
 
 ## Technologies Used
 
